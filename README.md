@@ -29,25 +29,25 @@ The project has been completed within the duration of 5 days. Each of us had sha
 
 ## Glimpse and screenshots of our cloned website:
 **Landing Page**
-![App Screenshot](https://github.com/shravanpm/cooperative-bridge-6636/blob/main/screenshots/LandingPage.png)
+![App Screenshot](https://github.com/rajashree27/Freshly-Clone/blob/master/screenshots/LandingPage.png?raw=true)
 
 **Plans and Menu Page**
-![App Screenshot](https://github.com/shravanpm/cooperative-bridge-6636/blob/main/screenshots/PlansAndMenu.png?raw=true)
+![App Screenshot](https://github.com/rajashree27/Freshly-Clone/blob/master/screenshots/PlansAndMenu.png?raw=true)
 
 **Help Page**
-![App Screenshot](https://github.com/shravanpm/cooperative-bridge-6636/blob/main/screenshots/Help.png)
+![App Screenshot](https://github.com/rajashree27/Freshly-Clone/blob/master/screenshots/Help.png?raw=true)
 
 **SignUp Page**
-![App Screenshot](https://github.com/shravanpm/cooperative-bridge-6636/blob/main/screenshots/SignUp.png)
+![App Screenshot](https://github.com/rajashree27/Freshly-Clone/blob/master/screenshots/SignUp.png?raw=true)
 
 **Login Page**
-![App Screenshot](https://github.com/shravanpm/cooperative-bridge-6636/blob/main/screenshots/Login.png)
+![App Screenshot](https://github.com/rajashree27/Freshly-Clone/blob/master/screenshots/Login.png?raw=true)
 
 **Plans Page**
-![App Screenshot](https://github.com/shravanpm/cooperative-bridge-6636/blob/main/screenshots/Plans.png)
+![App Screenshot](https://github.com/rajashree27/Freshly-Clone/blob/master/screenshots/Plans.png?raw=true)
 
 **Cart Page**
-![App Screenshot](https://github.com/shravanpm/cooperative-bridge-6636/blob/main/screenshots/Cart.png)
+![App Screenshot](https://github.com/rajashree27/Freshly-Clone/blob/master/screenshots/Cart.png?raw=true)
 
 **Checkout Page**
-![App Screenshot](https://github.com/shravanpm/cooperative-bridge-6636/blob/main/screenshots/Checkout.png)
+![App Screenshot](https://github.com/rajashree27/Freshly-Clone/blob/master/screenshots/Checkout.png?raw=true)
